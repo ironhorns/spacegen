@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const Clients = () => {
   return (
@@ -19,3 +19,5 @@ const Clients = () => {
 };
 
 export default Clients;
+
+
