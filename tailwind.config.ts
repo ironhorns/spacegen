@@ -2,7 +2,7 @@ import type { Config } from 'tailwindcss';
 
 const config: Config = {
   content: [
-    './index.html',
+  
     './src/**/*.{js,ts,jsx,tsx}', // scans all relevant files in your src folder
   ],
   theme: {
